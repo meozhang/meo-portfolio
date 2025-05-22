@@ -1,3 +1,5 @@
 <!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
 
 This is a personal portfolio website project. Please generate clean, semantic HTML, modern CSS, and JavaScript as needed. Follow the design and layout as shown in the provided reference image. Prioritize accessibility and responsive design.
+
+Automatically generate commit messages for each change made to the code. Use clear and descriptive commit messages that summarize the changes made in each commit. For example, "Add responsive navigation menu" or "Fix accessibility issues in project section". Avoid generic messages like "Update file" or "Make changes". The goal is to provide a clear history of changes for future reference.
